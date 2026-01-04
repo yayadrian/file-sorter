@@ -41,6 +41,10 @@ A production-ready desktop application that processes zip files containing image
 4. **Cancel Anytime**: Stop the current job with the Cancel button
 5. **Access Output**: Completed zips are saved to your Downloads folder with a "Show in Folder" button
 
+## Screenshot
+
+![File Sorter app screenshot](docs/app-screenshot.png)
+
 ### Output
 
 For each input zip, the app creates:
